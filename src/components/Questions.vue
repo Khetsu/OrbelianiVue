@@ -2,11 +2,11 @@
     <section class="faq-section">
       <h2>ხშირად დასმული კითხვები</h2>
   
-      <!-- Tabs -->
+      
       <div class="tabs">
         <button class="active">
           <span class="icon">
-            <!-- Replace with your SVG icon -->
+           
             <svg width="408" height="124" viewBox="0 0 408 124" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_d_5201_3329)">
 
@@ -22,21 +22,21 @@
         </button>
         <button>
           <span class="icon">
-            <!-- Replace with your SVG icon -->
+           
             <svg width="20" height="20" fill="#6c63ff"><circle cx="10" cy="10" r="8"/></svg>
           </span>
           მხარდამჭერისთვის
         </button>
         <button>
           <span class="icon">
-            <!-- Replace with your SVG icon -->
+            
             <svg width="20" height="20" fill="#6c63ff"><circle cx="10" cy="10" r="8"/></svg>
           </span>
           მეტი ინფორმაცია
         </button>
       </div>
   
-      <!-- Static Accordion -->
+  
       <div class="accordion">
         <div class="item">
           <div class="question">
@@ -70,7 +70,7 @@
         </div>
       </div>
   
-      <!-- CTA -->
+      
       <button class="cta">გაგრძელე კითხვა</button>
     </section>
   </template>

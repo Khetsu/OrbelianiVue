@@ -74,12 +74,12 @@
       h2 {
         color: var(--Text-500, #0A0A0A);
 
-/* Heading/4 */
+
 font-family: "Noto Sans Georgian";
 font-size: 28px;
 font-style: normal;
 font-weight: 700;
-line-height: 36px; /* 128.571% */
+line-height: 36px; 
       }
   
       .actions {

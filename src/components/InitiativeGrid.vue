@@ -16,7 +16,7 @@
       <div class="card-grid">
         <div class="card" v-for="n in 6" :key="n">
           <div class="icon">
-            <!-- Replace with your inline SVG icon -->
+            
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M18.5 11.5V6H20V11.5C20 11.9142 19.6642 12.25 19.25 12.25C18.8358 12.25 18.5 11.9142 18.5 11.5Z" fill="#6C68E1"/>
 <path d="M16 10V7H8V10C8 12.2091 9.79086 14 12 14C14.2091 14 16 12.2091 16 10Z" fill="#6C68E1"/>
